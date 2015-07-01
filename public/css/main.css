@@ -642,3 +642,7 @@ span.name {
   -ms-transform: rotate(90deg);
   transform: rotate(90deg);
 }
+
+#connect {
+    padding: 20px;
+}
